@@ -4,9 +4,12 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  /* background: url(./background.jpg); */
   height: 100vh;
   width: 100vw;
+}
+
+body {
+  background: linear-gradient(rgb(47, 150,163), rgb(48, 62,143));
 }
 
 .wrapper {
